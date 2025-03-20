@@ -31,7 +31,7 @@
 
 <br clear="both">
 
-<p><img src="[https://github-readme-streak-stats.herokuapp.com/?user=pawankumbhar25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="pawankumbhar25"  /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pawankumbhar25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="pawankumbhar25"  /></p>
 
 <br clear="both">
 <img src="https://github.com/PawanKumbhar25/PawanKumbhar25/blob/main/snake.svg" alt="Snake animation" />
