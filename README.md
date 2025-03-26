@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pawan Kumbhar!</h1>
-<h3 align="center">A passionate Data Analyst from Maharashtra, India</h3>
+<h3 align="center">A passionate Data Scientist from Maharashtra, India</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=PawanKumbhar25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -11,7 +11,7 @@
 **Resume:** [Click here to view my resume](https://drive.google.com/file/d/1JtlchLTLHR6th8hHJVTDhsORCiePEi1P/view?usp=sharing)
 
 <img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-- 🌱 I’m currently learning ****Big Data Technologies, AI****
+- 🌱 I’m currently learning Big Data Technologies, AI.
 
 - 💬 Ask me about **Python, Java, MySQL, Machine Learning, Deep Learning, Artificial Intelligence.**
 
